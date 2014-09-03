@@ -1,0 +1,9 @@
+base
+data.table
+dplyr
+ggplot2
+ggthemes
+knitcitations
+magrittr
+rCharts
+reshape
