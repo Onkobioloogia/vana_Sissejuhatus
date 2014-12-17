@@ -224,17 +224,23 @@ Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (`r 
 - selgitada vähiravi printsiipe
 
 
----
+---&twocol
+
 ## Raamat
+
+***=left
 
 - Robert A. Weinberg    
 <b>The Biology of Cancer</b>  
 New York, Garland Science, 2007   
 Kohaviit: 616/W-46
 
+***=right
+
 ![book](http://www.garlandscience.com/coverimage/?isbn=9780815340782&size=large&flat=false)
 
 ---
+
 ## Artikkel: The Hallmarks of Cancer
 
 - Hanahan, D., and R. A. Weinberg. 2000. The Hallmarks of Cancer. Cell 100:57-70.
