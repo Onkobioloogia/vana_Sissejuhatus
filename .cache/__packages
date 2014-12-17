@@ -7,3 +7,10 @@ knitcitations
 magrittr
 rCharts
 reshape
+slidify
+slidifyLibraries
+devtools
+zoo
+xts
+TTR
+quantmod

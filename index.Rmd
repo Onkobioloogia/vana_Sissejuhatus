@@ -43,10 +43,9 @@ $(function() {
 </script>
 
 --- .segue .dark .nobackground
-```{r viited, echo=FALSE, cache=FALSE}
-opts_chunk$set(message=FALSE)
+```{r viited, echo=FALSE, cache=FALSE, message=FALSE}
 library(knitcitations)
-bib <- read.bibtex('~/Dropbox/Onkobioloogia/viited.bib')
+bib <- read.bibtex('~/Dropbox/Onkobioloogia/sissejuhatus/viited.bib')
 ```
 
 ## Sissejuhatuseks
@@ -83,8 +82,8 @@ Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
 ---
 ## Kasvajatesse haigestumus Eestis
 
-```{r haigestumus, echo=FALSE, fig.align = 'center', cache=FALSE}
-kasvajad <- read.csv("~/Dropbox/Onkobioloogia/data/Kasvajad_haigestumus_2000-9.csv", header = TRUE)
+```{r haigestumus, echo=FALSE, warning=FALSE, message=FALSE, fig.align = 'center', cache=FALSE}
+kasvajad <- read.csv("~/Dropbox/Onkobioloogia/sissejuhatus/data/Kasvajad_haigestumus_2000-9.csv", header = TRUE)
 # load libraries
 library(quantmod)
 library(magrittr)
@@ -111,7 +110,7 @@ Andmed: TAI vähiregister
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-```{r paikmed, echo=FALSE, warning=FALSE,  fig.width=12, fig.align = 'center'}
+```{r paikmed, echo=FALSE, warning=FALSE, message=FALSE, fig.width=12, fig.align = 'center'}
 kasv$PaikmedHyph <- unlist(lapply(strwrap(kasv$Paikmed, width=20, simplify=FALSE), 
        paste, collapse="\n"))
 
@@ -285,11 +284,39 @@ Kohaviit: 616/W-46
   - proteoomika
 - Data are freely available and can be accessed by the cancer community through the TCGA Data Portal and the Cancer Genomics Hub (CGHub).
 
+--- .segue .dark .nobackground
+
+## Lingid loengutele
+
+--- &twocol 
+
+***=left 
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+
+
+***=right 
+
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
 
 ---
 ### Viited
-```{r bibliograafia, results="asis", echo=FALSE, cache=FALSE}
-bibliography(style="nature", sorting = 'ynt')
+```{r bibliograafia, results="asis", echo=FALSE, warning=FALSE, error=FALSE, cache=FALSE}
+bibliography()
 ```
 
 

@@ -79,30 +79,30 @@ Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
 ---
 ## Kasvajatesse haigestumus Eestis
 
-<img src="assets/fig/haigestumus.png" title="plot of chunk haigestumus" alt="plot of chunk haigestumus" style="display: block; margin: auto;" />
+<img src="assets/fig/haigestumus-1.png" title="plot of chunk haigestumus" alt="plot of chunk haigestumus" style="display: block; margin: auto;" />
 
 Andmed: TAI vähiregister
 
 ---
 ## Kasvajad Eestis paikmete kaupa
 
-<img src="assets/fig/paikmed.png" title="plot of chunk paikmed" alt="plot of chunk paikmed" style="display: block; margin: auto;" />
+<img src="assets/fig/paikmed-1.png" title="plot of chunk paikmed" alt="plot of chunk paikmed" style="display: block; margin: auto;" />
 
 Andmed: TAI vähiregister
 
 ---
 ## Sagedasemad paikmed
 
-<img src="assets/fig/sagedus.png" title="plot of chunk sagedus" alt="plot of chunk sagedus" style="display: block; margin: auto;" />
+<img src="assets/fig/sagedus-1.png" title="plot of chunk sagedus" alt="plot of chunk sagedus" style="display: block; margin: auto;" />
 
 ---
 ## Seedelundkond
-<img src="assets/fig/seedelundkond.png" title="plot of chunk seedelundkond" alt="plot of chunk seedelundkond" style="display: block; margin: auto;" />
+<img src="assets/fig/seedelundkond-1.png" title="plot of chunk seedelundkond" alt="plot of chunk seedelundkond" style="display: block; margin: auto;" />
 
 --- 
 ## Rindkere
 
-<img src="assets/fig/rindkere.png" title="plot of chunk rindkere" alt="plot of chunk rindkere" style="display: block; margin: auto;" />
+<img src="assets/fig/rindkere-1.png" title="plot of chunk rindkere" alt="plot of chunk rindkere" style="display: block; margin: auto;" />
 
 ---
 ## Esmased vähid ja 5 aasta suremus
@@ -126,16 +126,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.56+0.14%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.11-0.55%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS93.71+4.31%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY63.68+0.19%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ103.36-0.36%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS40.72-0.05%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS91.8+0.16%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY69.4001+0.20%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ103.075+0.31%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS43.77+0.39%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG95.09+0.07%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG109.35-0.67%)
 
 ---
 ## Ravimiresistentsus
@@ -216,12 +216,48 @@ Pilt: Hanahan and Weinberg, 2011.
   - proteoomika
 - Data are freely available and can be accessed by the cancer community through the TCGA Data Portal and the Cancer Genomics Hub (CGHub).
 
+--- .segue .dark .nobackground
+
+## Lingid loengutele
+
+--- &twocol 
+
+***=left 
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+
+
+***=right 
+
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
 
 ---
 ### Viited
-Hanahan, D., and R. A. Weinberg. 2011. Hallmarks of Cancer: The Next Generation. Cell 144:646â674.
+[1] D. Hanahan and R. A. Weinberg. "Hallmarks of Cancer: The Next
+Generation". In: _Cell_ 144.5 (2011), pp. 646 - 674. ISSN:
+0092-8674. DOI: http://dx.doi.org/10.1016/j.cell.2011.02.013.
+<URL:
+http://www.sciencedirect.com/science/article/pii/S0092867411001279>.
 
-Marshall, E. 2011. Cancer Research and the $90 Billion Metaphor. Science 331:1540â1541.
+[2] E. Marshall. "Cancer Research and the $90 Billion Metaphor".
+In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI:
+10.1126/science.331.6024.1540-a. eprint:
+http://www.sciencemag.org/content/331/6024/1540.1.full.pdf. <URL:
+http://www.sciencemag.org/content/331/6024/1540.1.short>.
 
 
 
