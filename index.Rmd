@@ -244,8 +244,11 @@ Kohaviit: 616/W-46
 
 `r paste0("Pilt: ", gsub("\\((.*)\\)","\\1",citep(bib["Hanahan2011"])), ".")`
 
----
+---&twocol
+
 ## Teemad
+
+***=left
 
 - vähitüübid, vähitekkeprotsess
 - onkogeenid
@@ -254,6 +257,9 @@ Kohaviit: 616/W-46
 - tuumor-suppressor geenid
   - pRb ja rakutsükkel
   - p53 ja apoptoos
+
+***=right
+
 - genoomi stabiilsus/ebastabiilsus
 - angiogenees
 - kasvaja mikrokeskkond
@@ -262,7 +268,9 @@ Kohaviit: 616/W-46
 - ravimiresistentsus
 
 --- .segue .dark .nobackground
+
 ## Kasvaja molekulaarne portree
+
 ![mugshot](http://www.museumsyndicate.com/images/6/50080.jpg)
 
 ---
