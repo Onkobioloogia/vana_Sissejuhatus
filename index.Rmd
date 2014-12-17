@@ -306,7 +306,7 @@ Kohaviit: 616/W-46
 
 ***=left 
 
-- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
 - [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)

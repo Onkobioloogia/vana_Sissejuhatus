@@ -126,16 +126,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.18-0.36%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.19-0.33%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
 Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS91.85+0.22%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY69.484+0.32%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY69.58+0.46%)
 Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ103.15+0.38%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS43.67+0.16%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS43.7+0.23%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG109.6575-0.39%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG109.91-0.16%)
 
 ---
 ## Ravimiresistentsus
@@ -238,7 +238,7 @@ Pilt: Hanahan and Weinberg, 2011.
 
 ***=left 
 
-- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
 - [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)
