@@ -126,16 +126,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.19-0.33%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.225-0.16%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS91.85+0.22%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY69.58+0.46%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ103.15+0.38%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS43.7+0.23%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS94.1+0.20%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.39+0.33%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ105.06+0.45%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS46.07+0.24%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG109.91-0.16%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG113.35+3.42%)
 
 ---
 ## Ravimiresistentsus
