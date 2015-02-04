@@ -65,8 +65,77 @@ vähisurmasid
 - arengumaades põhjustavad 20% vähkidest hepatiidi viirused B ja C ning papilloomiviirused
 - ennustatkse, et haigestumus suureneb maailmas 14 miljonilt 2012.a 22 miljonini 2030ndatel
 
+--- .segue .dark .nobackground
+
+## Vähi kolm peamist väljakutset 21. saj maailmas
+
+---&twocol
+
+## Ülekaalulisus ja vähk
+
+***=left
+
+- Obesity is a risk factor for breast (post-menopausal), colorectal, endometrial, kidney, esophageal and pancreatic cancers. 
+- People who are overweight or are obese may be at greater risk for cancer recurrence and death. 
+- Obesity and overweight rates have increased in countries at all income levels.
+- Physical activity and a healthy diet are the two key ways to reduce the risk.
+
+***=right
+
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044686.png" style="width:480px;"/>
+
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
+</footer>
+
+---&twocol
+
+## Suitsetamise tõus arengumaades
+
+***=left
+
+- Üle 1.3 miljardi inimese suitsetab maailmas tubakat. Suitsetamine põhjustab erinevaid kasvajaid ja vastutab 1/5 vähisurmade eest maailmas.
+- Lähis-Idas ja Aafrikas on ajavahemikus 1990-2009 sigarettide tarbimine suurenenud 57%.
+- Kuigi keskeas suitsetamise maha jätmine vähendab üle 60% kopsuvähi riski, teevad arengumaades seda vähesed.
+- Sigarettide maksustamises nähakse vastumeedet, kuid sissetulekud tõusevad kiiremini kui maksud.
+
+***=right
+
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044688.png" style="width:480px;"/>
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
+</footer>
+
+---&twocol
+
+## Diagnostika ja teraapia kättesaadavus
+
+***=left
+
+- Tingituna piiratud juurdepääsust diagnostikale ja ravile on madala ja keskmise sissetulekuga maades vähisurmade suhe intsidentsi umbes 20% kõrgem kui arenenud maades.
+- Piiratud juurdepääs on tingitud nii kõrgest hinnast, ebapiisavast infrastruktuurist kui personali puudusest.
+- Radioteraapia on näidustatud umbes 60% vähipatsientidest, siiski pole see kättesaadav arengumaades elavatele 82% maailma rahvastikule.
+
+
+***=right
+
+# 30 Aafrika ja Kagu-Aasia riigis puudub radioteraapia teenus täielikult
+
+<img src="http://www.cancer.org/acs/groups/content/@editorial/documents/image/acspc-044689.png" style="width:480px;"/>
+
+<footer class="source">Allikas: 
+<a href="http://www.cancer.org/research/acsresearchupdates/more/three-top-cancer-challenges-of-the-21st-century?utm_source=MB_Twit&utm_medium=Social&utm_content=Feb03_A&utm_campaign=Feb_2015"> www.cancer.org.
+</a>
+</footer>
+
+
 ---
-Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
+
+## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
 
 - kops (1.59 miljonit surma)
 - maks (745 000)
@@ -126,16 +195,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY36.505+0.81%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY33.48-0.51%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS100.95+0.37%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.68+1.35%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ104.04+1.51%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS45.02+0.67%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS97.41-0.25%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.89-1.12%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ102.46+1.62%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS45.11+1.55%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG121.81+2.99%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG117.6-0.82%)
 
 ---
 ## Ravimiresistentsus
