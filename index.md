@@ -132,6 +132,11 @@ vähisurmasid
 </a>
 </footer>
 
+---
+
+## Erinevused 5-aasta elulemuses riigiti
+
+![5ysurvival](http://assets1.celgene.com/content/uploads/international_discepancies_5_year_cancer_survival_rate.png)
 
 ---
 
@@ -195,16 +200,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY33.48-0.51%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.04+1.67%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS97.41-0.25%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.89-1.12%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ102.46+1.62%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS45.11+1.55%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS98.15+0.76%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.22-0.95%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ101.36-1.07%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS46.05+2.08%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG117.6-0.82%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG116.57-0.88%)
 
 ---
 ## Ravimiresistentsus
