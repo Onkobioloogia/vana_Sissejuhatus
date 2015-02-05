@@ -134,7 +134,7 @@ vähisurmasid
 
 ---
 
-## Erinevused 5-aasta elulemuses riigiti
+## Erinevused 5-aasta elulemuses maailmas
 
 ![5ysurvival](http://assets1.celgene.com/content/uploads/international_discepancies_5_year_cancer_survival_rate.png)
 
