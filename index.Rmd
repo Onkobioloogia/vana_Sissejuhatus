@@ -248,6 +248,7 @@ kasv %>%
 
 ---
 ## Esmased vähid ja 5 aasta suremus
+# Sõltuvalt vähitüübist võib elulemus varieeruda 10% kuni 90% 
 
 ![suremus](http://www.sciencemag.org/content/vol331/issue6024/images/data/1540-a/DC1/331_1540a_F1.jpg)
 
