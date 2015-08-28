@@ -2,7 +2,7 @@
 title       : Onkobioloogia
 subtitle    : Vähkkasvajate molekulaarsed mehhanismid
 author      : Taavi Päll
-job         : vanemteadur, Vähiuuringute Tehnoloogia Arenduskeskus
+job         : lektor, Tallinna Tehnikaülikool
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -201,16 +201,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.04+1.67%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.26-1.69%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS98.15+0.76%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY70.22-0.95%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ101.36-1.07%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS46.05+2.08%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS98.28-0.36%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY83.86+0.14%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ95.82-0.42%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS42.59-0.19%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG116.57-0.88%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG123.2799+0.1950%)
 
 ---
 ## Ravimiresistentsus
@@ -342,7 +342,7 @@ Generation". In: _Cell_ 144.5 (2011), pp. 646 - 674. ISSN:
 <URL:
 http://www.sciencedirect.com/science/article/pii/S0092867411001279>.
 
-[2] E. Marshall. "Cancer Research and the $90 Billion Metaphor".
+[2] E. Marshall. "Cancer Research and the \$90 Billion Metaphor".
 In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI:
 10.1126/science.331.6024.1540-a. eprint:
 http://www.sciencemag.org/content/331/6024/1540.1.full.pdf. <URL:
