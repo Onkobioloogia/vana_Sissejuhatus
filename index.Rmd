@@ -21,6 +21,11 @@ img {
 </style>
 
 <style> .title-slide {
+  background-image:url(http://research.wayne.edu/communications/external_photos/genemutation.jpg); 
+  background-repeat: no-repeat; 
+  background-position: 20% 5%; 
+  background-size: 46%; 
+  background-color: #CBE7A5; /* ; ; */ }
   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
 }
 
@@ -145,13 +150,17 @@ vähisurmasid
 
 ## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
 
-- kops (1.59 miljonit surma)
+- 5. kops (1.59M surma)
 - maks (745 000)
-- magu (723 000 deaths)
+- magu (723 000)
 - kolorektaal (694 000)
 - rinnavähk (521 000)
 - söögitoru (400 000)
 
+Võrdluseks: 
+- 1. südame isheemia (7.4M) 
+- 2. insult (6.7M)
+- 3-4. COPD ja alumiste hingamisteede infektsioonid (a 3.1M)
 
 ---
 ## Kasvajatesse haigestumus Eestis

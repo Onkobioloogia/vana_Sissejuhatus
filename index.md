@@ -21,6 +21,11 @@ img {
 </style>
 
 <style> .title-slide {
+  background-image:url(http://research.wayne.edu/communications/external_photos/genemutation.jpg); 
+  background-repeat: no-repeat; 
+  background-position: 20% 5%; 
+  background-size: 46%; 
+  background-color: #CBE7A5; /* ; ; */ }
   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
 }
 
@@ -142,13 +147,17 @@ vähisurmasid
 
 ## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
 
-- kops (1.59 miljonit surma)
+- 5. kops (1.59M surma)
 - maks (745 000)
-- magu (723 000 deaths)
+- magu (723 000)
 - kolorektaal (694 000)
 - rinnavähk (521 000)
 - söögitoru (400 000)
 
+Võrdluseks: 
+- 1. südame isheemia (7.4M) 
+- 2. insult (6.7M)
+- 3-4. COPD ja alumiste hingamisteede infektsioonid (a 3.1M)
 
 ---
 ## Kasvajatesse haigestumus Eestis
@@ -201,16 +210,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.26-1.69%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.06-2.27%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS98.28-0.36%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY83.86+0.14%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ95.82-0.42%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS42.59-0.19%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS97.68-0.97%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY83.34-0.48%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ95.01-1.26%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS42.57-0.23%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG123.2799+0.1950%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG122.83-0.17%)
 
 ---
 ## Ravimiresistentsus
