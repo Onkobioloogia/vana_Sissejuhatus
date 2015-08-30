@@ -334,17 +334,6 @@ Kohaviit: 616/W-46
 
 ![book](http://www.garlandscience.com/coverimage/?isbn=9780815340782&size=large&flat=false)
 
----
-
-## Artikkel: The Hallmarks of Cancer
-
-- Hanahan, D., and R. A. Weinberg. 2000. The Hallmarks of Cancer. Cell 100:57-70.
-- Hanahan, D., and R. A. Weinberg. 2011. Hallmarks of Cancer: The Next Generation. Cell 144:646-674.
-
-![hallmarks](http://origin-ars.els-cdn.com/content/image/1-s2.0-S0092867411001279-gr1.jpg)
-
-`r paste0("Pilt: ", gsub("\\((.*)\\)","\\1",citep(bib["Hanahan2011"])), ".")`
-
 ---&twocol
 
 ## Teemad
