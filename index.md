@@ -39,6 +39,12 @@ img {
 }
 </style>
 
+<style>
+strong {
+  font-weight: bold;
+}
+</style>
+
 <!-- Center image on slide -->
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
 <script type="text/javascript">
@@ -54,8 +60,8 @@ $(function() {
 
 --- 
 ## Vähk
-- Mõiste vähk (tuumor, pahaloomuline kasvaja, neoplasm) tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
-- Vähi tunnuseks on ebanormaalsete rakkude kasv väljapoole nende normaalseid piire. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
+- Mõiste **vähk (tuumor, pahaloomuline kasvaja, neoplasm)** tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
+- Vähi tunnuseks on **ebanormaalsete rakkude kasv koes väljapoole nende normaalseid piire**. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
 - Metastaasid on ka enamuse kasvajatest tingitud surmade põhjustajaks.
 
 [A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
@@ -210,16 +216,16 @@ Top 10 best-sellerit vähiravimite hulgas 2013 (maailmas):
 
 Bränd | näidustus | globaalne müük | firma (aktsia)
 ------| --------- |----------------| ------
-Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.06-2.27%)
+Rituxan/MabThera | non-Hodgkin's lymphoma, CLL | $7.78 billion | Roche (RHHBY34.16-1.98%)
 Avastin | Colorectal, lung, ovarian and brain cancer | $6.75 billion | Roche
 Herceptin| Breast, esophagus and stomach cancer | $6.56 billion | Roche
-Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS97.68-0.97%)
-Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY83.34-0.48%)
-Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ95.01-1.26%)
-Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS42.57-0.23%)
+Gleevec| Leukemia, GI cancer | $4.69 billion | Novartis (NVS98.35-0.29%)
+Alimta | Lung cancer | $2.7 billion | Eli Lilly (LLY83.19-0.66%)
+Velcade |  Multiple myeloma | $2.6 billion | Takeda, J&J (JNJ95.17-1.09%)
+Erbitux | Colon and head and neck cancer| $1.87 billion |  Merck, BMS (BMS42.93+0.61%)
 Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; Sanofi, Astellas
 Zytiga| Prostate cancer | $1.7 billion | J&J
-Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG122.83-0.17%)
+Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (CELG124.04+0.81%)
 
 ---
 ## Ravimiresistentsus

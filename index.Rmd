@@ -39,6 +39,12 @@ img {
 }
 </style>
 
+<style>
+strong {
+  font-weight: bold;
+}
+</style>
+
 <!-- Center image on slide -->
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
 <script type="text/javascript">
@@ -57,8 +63,8 @@ bib <- read.bibtex('~/Dropbox/Onkobioloogia/sissejuhatus/viited.bib')
 
 --- 
 ## Vähk
-- Mõiste vähk (tuumor, pahaloomuline kasvaja, neoplasm) tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
-- Vähi tunnuseks on ebanormaalsete rakkude kasv väljapoole nende normaalseid piire. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
+- Mõiste **vähk (tuumor, pahaloomuline kasvaja, neoplasm)** tähistab suurt hulka erinevaid haiguseid (NCI ~160 olulisemat) mis võivad tekkida kõigis keha kudedes. 
+- Vähi tunnuseks on **ebanormaalsete rakkude kasv koes väljapoole nende normaalseid piire**. Kõrvalolevate kudede invasioon ja levik teistesse organitesse ehk metastaseerumine.  
 - Metastaasid on ka enamuse kasvajatest tingitud surmade põhjustajaks.
 
 [A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
@@ -171,7 +177,7 @@ kasvajad <- read.csv("~/Dropbox/Onkobioloogia/sissejuhatus/data/Kasvajad_haigest
 library(quantmod)
 library(magrittr)
 library(ggplot2)
-library(reshape)
+library(reshape2)
 library(dplyr)
 library(ggthemes)
 kasv <- melt(kasvajad, id = c("ICD10", "Organ", "Paikmed", "Sugu", "Aasta")) %>%
@@ -185,7 +191,8 @@ kasv %>%
   geom_bar(stat="identity") + 
   theme(axis.text.x  = element_text(angle=90, vjust=0.5)) +
   scale_y_continuous(name="Patsientide arv") +
-  scale_x_discrete(name="Aasta") 
+  scale_x_discrete(name="Aasta") +
+  scale_fill_colorblind()
 ```
 
 Andmed: TAI vähiregister
@@ -206,7 +213,8 @@ kasv %>%
 #   theme_economist() +
   theme(axis.text.x  = element_text(angle=90, vjust=0.5)) +
   scale_y_continuous(name="Patsientide arv") +
-  scale_x_discrete(name="Aasta") 
+  scale_x_discrete(name="Aasta") +
+  scale_fill_colorblind()
 ```
 
 Andmed: TAI vähiregister
@@ -222,7 +230,8 @@ kasv %>%
   ggplot(aes(x = reorder(PaikmedHyph, value), y = value, fill = Sugu)) + 
   geom_bar(stat="identity") + 
   scale_y_continuous(name="Patsientide arv 2000-2009") +
-  scale_x_discrete(name="Paikmed") + coord_flip()
+  scale_x_discrete(name="Paikmed") + coord_flip() +
+  scale_fill_colorblind()
 
 ```
 
@@ -236,7 +245,8 @@ kasv %>%
   ggplot(aes(x = reorder(Organ, value), y = value, fill = Sugu)) + 
   geom_bar(stat="identity") + 
   scale_y_continuous(name="Patsientide arv 2000-2009") +
-  scale_x_discrete(name="Paikmed") + coord_flip()
+  scale_x_discrete(name="Paikmed") + coord_flip() +
+  scale_fill_colorblind()
 
 ```
 
@@ -251,7 +261,8 @@ kasv %>%
   ggplot(aes(x = reorder(Organ, value), y = value, fill = Sugu)) + 
   geom_bar(stat="identity") + 
   scale_y_continuous(name="Patsientide arv 2000-2009") +
-  scale_x_discrete(name="Paikmed") + coord_flip()
+  scale_x_discrete(name="Paikmed") + coord_flip() +
+  scale_fill_colorblind()
 
 ```
 
