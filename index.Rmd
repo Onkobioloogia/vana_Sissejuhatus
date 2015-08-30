@@ -334,59 +334,9 @@ Kohaviit: 616/W-46
 
 ![book](http://www.garlandscience.com/coverimage/?isbn=9780815340782&size=large&flat=false)
 
----&twocol
+--- &twocol
 
-## Teemad
-
-***=left
-
-- vähitüübid, vähitekkeprotsess
-- onkogeenid
-  - kasvufaktorid ja retseptorid
-  - signaalirajad
-- tuumor-suppressor geenid
-  - pRb ja rakutsükkel
-  - p53 ja apoptoos
-
-***=right
-
-- genoomi stabiilsus/ebastabiilsus
-- angiogenees
-- kasvaja mikrokeskkond
-- invasiivsus metastaas
-- kasvaja immunsus ja immunoteraapia
-- ravimiresistentsus
-
---- .segue .dark .nobackground
-
-## Kasvaja molekulaarne portree
-
-![mugshot](http://www.museumsyndicate.com/images/6/50080.jpg)
-
----
-## Kasvaja genoomika
-- Täpsusmeditsiini üheks võimaluseks on patsiendi geneetilise info kasutamine ravis   
-
-- Kasvaja genoomika eesmärgiks on personaalse meditsiini arendamine kasutades DNA sekveneerimist ja analüüsimist selleks, et määrata spetsiifilise kasvajaga seotud geneetilised muutused
-
-- Vähirakkudes toimunud muutuste mõistmine lubab arendada efektiivsemaid ravistrateegiaid lähtuvalt konkreetse patsiendi vähi geneetilisest profiilist
-
----
-## The Cancer Genome Atlas
-
-[TCGA](http://cancergenome.nih.gov/abouttcga/overview):
-- To collect and characterize more than 20 tumor types
-- Each cancer will undergo comprehensive genomic characterization and analysis
-  - eksoomi sekveneerimine
-  - ekspressiooni ja SNP kiibid
-  - proteoomika
-- Data are freely available and can be accessed by the cancer community through the TCGA Data Portal and the Cancer Genomics Hub (CGHub).
-
---- .segue .dark .nobackground
-
-## Lingid loengutele
-
---- &twocol 
+# Teemad ja lingid loengutele
 
 ***=left 
 
@@ -410,6 +360,26 @@ Kohaviit: 616/W-46
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
 - [Vähiravimid](http://tpall.github.io/Vahiravim)
+
+
+---
+## Kasvaja genoomika
+- Täpsusmeditsiini üheks võimaluseks on patsiendi geneetilise info kasutamine ravis   
+
+- Kasvaja genoomika eesmärgiks on personaalse meditsiini arendamine kasutades DNA sekveneerimist ja analüüsimist selleks, et määrata spetsiifilise kasvajaga seotud geneetilised muutused
+
+- Vähirakkudes toimunud muutuste mõistmine lubab arendada efektiivsemaid ravistrateegiaid lähtuvalt konkreetse patsiendi vähi geneetilisest profiilist
+
+---
+## The Cancer Genome Atlas
+
+[TCGA](http://cancergenome.nih.gov/abouttcga/overview):
+- To collect and characterize more than 20 tumor types
+- Each cancer will undergo comprehensive genomic characterization and analysis
+  - eksoomi sekveneerimine
+  - ekspressiooni ja SNP kiibid
+  - proteoomika
+- Data are freely available and can be accessed by the cancer community through the TCGA Data Portal and the Cancer Genomics Hub (CGHub).
 
 ---
 ### Viited

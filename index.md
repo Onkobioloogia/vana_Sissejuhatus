@@ -261,17 +261,6 @@ Kohaviit: 616/W-46
 
 ![book](http://www.garlandscience.com/coverimage/?isbn=9780815340782&size=large&flat=false)
 
----
-
-## Artikkel: The Hallmarks of Cancer
-
-- Hanahan, D., and R. A. Weinberg. 2000. The Hallmarks of Cancer. Cell 100:57-70.
-- Hanahan, D., and R. A. Weinberg. 2011. Hallmarks of Cancer: The Next Generation. Cell 144:646-674.
-
-![hallmarks](http://origin-ars.els-cdn.com/content/image/1-s2.0-S0092867411001279-gr1.jpg)
-
-Pilt: Hanahan and Weinberg, 2011.
-
 ---&twocol
 
 ## Teemad
@@ -351,13 +340,7 @@ Pilt: Hanahan and Weinberg, 2011.
 
 ---
 ### Viited
-[1] D. Hanahan and R. A. Weinberg. "Hallmarks of Cancer: The Next
-Generation". In: _Cell_ 144.5 (2011), pp. 646 - 674. ISSN:
-0092-8674. DOI: http://dx.doi.org/10.1016/j.cell.2011.02.013.
-<URL:
-http://www.sciencedirect.com/science/article/pii/S0092867411001279>.
-
-[2] E. Marshall. "Cancer Research and the \$90 Billion Metaphor".
+[1] E. Marshall. "Cancer Research and the \$90 Billion Metaphor".
 In: _Science_ 331.6024 (2011), pp. 1540 - 1541. DOI:
 10.1126/science.331.6024.1540-a. eprint:
 http://www.sciencemag.org/content/331/6024/1540.1.full.pdf. <URL:
