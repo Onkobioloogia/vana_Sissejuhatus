@@ -70,18 +70,52 @@ bib <- read.bibtex('~/Dropbox/Onkobioloogia/sissejuhatus/viited.bib')
 [A to Z List of Cancers](http://www.cancer.gov/cancertopics/types/alphalist)
 
 ---
-# WHO andmetel
+## Vähk võib lõppeda surmaga
+
 - Vähkkasvajad on maailmas üks juhtivatest surma põhjustatavatest haigustest, nõudes 8.2 miljonit elu 2012. a (EU-27 osakaal 2012: 1.27 miljonit (15%))
 - Kopsu-, maksa-, mao-, kolorektaal- ja rinnakasvajad põhjustavad enim 
 vähisurmasid
 - sagedasemad vähitüübid on naistel ja meestel erinevad
-- ~30% vähisurmadest on tingitud viiest käitumis ja dieediriskist: kõrge BMI, vähe puu- ja aedvilju menüüs, vähene füüsiline aktiivsus, tubakas/suitsetamine, alkohol
-- arengumaades põhjustavad 20% vähkidest hepatiidi viirused B ja C ning papilloomiviirused
-- ennustatkse, et haigestumus suureneb maailmas 14 miljonilt 2012.a 22 miljonini 2030ndatel
+- ennustatkse, et haigestumus suureneb maailmas 14 miljonilt 2012.a 22 miljonini 2030-ndatel
+
+<footer class="source">Allikas: WHO
+</footer>
+
+---
+
+## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
+
+- 5. kops (1.59M surma)
+- maks (745 000)
+- magu (723 000)
+- kolorektaal (694 000)
+- rinnavähk (521 000)
+- söögitoru (400 000)
+
+Võrdluseks: 
+- 1. südame isheemia (7.4M) 
+- 2. insult (6.7M)
+- 3-4. COPD ja alumiste hingamisteede infektsioonid (a 3.1M)
+
 
 --- .segue .dark .nobackground
 
-## Vähi kolm peamist väljakutset 21. saj maailmas
+## Vähiriski mõjutab elustiil
+
+---
+
+## Vähirisk
+
+- ~30% vähisurmadest on tingitud viiest käitumis ja dieediriskist: 
+
+1. kõrge BMI, 
+2. vähe puu- ja aedvilju menüüs, 
+2. vähene füüsiline aktiivsus, 
+3. tubakas/suitsetamine, 
+4. alkohol
+
+- arengumaades põhjustavad 20% vähkidest hepatiidi viirused B ja C ning papilloomiviirused
+
 
 ---&twocol
 
@@ -89,10 +123,10 @@ vähisurmasid
 
 ***=left
 
-- Obesity is a risk factor for breast (post-menopausal), colorectal, endometrial, kidney, esophageal and pancreatic cancers. 
-- People who are overweight or are obese may be at greater risk for cancer recurrence and death. 
-- Obesity and overweight rates have increased in countries at all income levels.
-- Physical activity and a healthy diet are the two key ways to reduce the risk.
+- Ülekaalulisus ja rasvumine on maailmas kasvav probleem.
+- Ülekaalulisus ja rasvumine suurendab vähiriski mitmete vähitüüpide puhul: rinna-, soole-, neeru-, endomeetriumi-, söögitoru- ja pankrease vähk. 
+- Vähiteraapias on ülekaalulisus ja rasvumine seotud suurenenud vähi tagasi tuleku ja surma riskiga. 
+- **Füüsiline aktiivsus ja tervislik toit** vähendavad riski oluliselt.
 
 ***=right
 
@@ -124,6 +158,13 @@ vähisurmasid
 </a>
 </footer>
 
+
+---
+
+## Erinevused 5-aasta elulemuses maailmas
+
+![5ysurvival](http://assets1.celgene.com/content/uploads/international_discepancies_5_year_cancer_survival_rate.png)
+
 ---&twocol
 
 ## Diagnostika ja teraapia kättesaadavus
@@ -146,27 +187,9 @@ vähisurmasid
 </a>
 </footer>
 
----
+--- .segue .dark .nobackground
 
-## Erinevused 5-aasta elulemuses maailmas
-
-![5ysurvival](http://assets1.celgene.com/content/uploads/international_discepancies_5_year_cancer_survival_rate.png)
-
----
-
-## Kõige sagedasemad surmaga lõppevad vähid maailmas, 2012 aasta seis:
-
-- 5. kops (1.59M surma)
-- maks (745 000)
-- magu (723 000)
-- kolorektaal (694 000)
-- rinnavähk (521 000)
-- söögitoru (400 000)
-
-Võrdluseks: 
-- 1. südame isheemia (7.4M) 
-- 2. insult (6.7M)
-- 3-4. COPD ja alumiste hingamisteede infektsioonid (a 3.1M)
+## Eesti
 
 ---
 ## Kasvajatesse haigestumus Eestis
@@ -276,12 +299,14 @@ kasv %>%
 
 ---
 ## Vähiravi/teraapiad
-- lõikus
-- kemoteraapia,
-- kiiritusravi,
+
+- kirurgia
+- kemoteraapia
+- kiiritusravi
+- hormoonteraapia
 - märklaud teraapiad
-  - bioloogiline ravi
-- angiogeneesi inhibiitorid
+- immuunteraapia
+
 
 ---
 ## Vähiravimid
@@ -300,23 +325,14 @@ Lupron, Eligard | Prostate and ovarian cancer | $1.73 billion |AbbVie, Takeda; S
 Zytiga| Prostate cancer | $1.7 billion | J&J
 Revlimid | Multiple myeloma, mantle cell lymphoma | $1.09 billion | Celgene (`r paste(getQuote("CELG", what=yahooQF(c("Symbol","Last Trade (Price Only)","Change in Percent")))[c(2:4)], collapse="")`)
 
----
-## Ravimiresistentsus
-
-- Üks peamiseid limiteerivaid faktoreid mis määrab süsteemse vähiravi efektiivsuse
-- kliinliselt defineeritakse ravimiresistentsena selline vähk mis progresseerub ravi käigus
-- peale resistentse haiguse välja kujunemist reeglina muudetakse ravi, võetakse kasutusele mõni teist tüüpi (teisest klassist) ravim
-  - eelduseks on et vähi poolt omandatud resistentsus on permanentne ja "päritav" omadus
-- võib piisata ka sama ravi jätkamisest peale "ravipuhkust"
-
 --- .segue .dark .nobackground
 ## Kursus
 
 ---
-## Kursuse eesmärgid
+## Kursuse eesmärk
 
-- selgitada vähkkasvajate tekke molekulaarseid ja rakulisi mehhanisme
-- selgitada vähiravi printsiipe
+- **selgitada vähkkasvajate tekke molekulaarseid ja rakulisi mehhanisme**
+
 
 
 ---&twocol
@@ -360,32 +376,5 @@ Kohaviit: 616/W-46
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
 - [Vähiravimid](http://tpall.github.io/Vahiravim)
-
-
----
-## Kasvaja genoomika
-- Täpsusmeditsiini üheks võimaluseks on patsiendi geneetilise info kasutamine ravis   
-
-- Kasvaja genoomika eesmärgiks on personaalse meditsiini arendamine kasutades DNA sekveneerimist ja analüüsimist selleks, et määrata spetsiifilise kasvajaga seotud geneetilised muutused
-
-- Vähirakkudes toimunud muutuste mõistmine lubab arendada efektiivsemaid ravistrateegiaid lähtuvalt konkreetse patsiendi vähi geneetilisest profiilist
-
----
-## The Cancer Genome Atlas
-
-[TCGA](http://cancergenome.nih.gov/abouttcga/overview):
-- To collect and characterize more than 20 tumor types
-- Each cancer will undergo comprehensive genomic characterization and analysis
-  - eksoomi sekveneerimine
-  - ekspressiooni ja SNP kiibid
-  - proteoomika
-- Data are freely available and can be accessed by the cancer community through the TCGA Data Portal and the Cancer Genomics Hub (CGHub).
-
----
-### Viited
-```{r bibliograafia, results="asis", echo=FALSE, warning=FALSE, error=FALSE, cache=FALSE}
-bibliography()
-```
-
 
 
